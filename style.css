@@ -1,7 +1,7 @@
 *{
     margin: 0;
     font-family: arial;
-    border: border-box;
+    box-sizing: border-box;
 }
 .navbar{
     height: 60px;
@@ -566,4 +566,14 @@ img, div[class*="box"] {
   .select-1 {
     margin: 5px 0;
   }
+
+  [class*="box2-"],
+  [class*="box3-"],
+  [class*="box5-"],
+  [class*="box7-"],
+  [class*="box8-"] {
+    width: 45%;
+    height: auto;
+    margin: 5px;
+ }
 }
