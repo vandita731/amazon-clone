@@ -1,7 +1,7 @@
 *{
     margin: 0;
     font-family: arial;
-    box-sizing: border-box;
+    border: border-box;
 }
 .navbar{
     height: 60px;
@@ -51,9 +51,7 @@
 .nav-search{
     display: flex;
     justify-content: space-evenly;
-    width: 100%;
-    max-width: 600px;
-    margin:10px;
+    width: 900px;
     height: 40px;
     background-color: #d41919;
     border-radius: 4px;
@@ -172,8 +170,7 @@
 }
 
 .box{
-    width: 100%;
-    max-width: 300px;
+    width: 22.67%;
     height: 380px;
     background-color: #fff;
     padding: 20px 0px 15px;
@@ -182,10 +179,7 @@
 
 .shop-section{
     display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    padding: 10px;
-    justify-content: center;
+    justify-content: space-evenly;
     background-color: rgb(250, 233, 109);
     
 }
@@ -517,63 +511,4 @@
     font-size: 0.8rem;
     text-align: center;
     padding-top: 5px;
-}
-
-img, div[class*="box"] {
-    max-width: 100%;
-    height: auto;
-}
-
-@media (max-width: 768px) {
-
-  .navbar {
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 10px;
-  }
-
-  .nav-search {
-    width: 90%;
-    margin-top: 10px;
-  }
-
-  .panel-opps {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    text-align: center;
-  }
-
-  .box {
-    width: 90%;
-    margin: 10px auto;
-  }
-
-  .foot-panel2 {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .foot-panel2 ul {
-    margin: 20px 0;
-  }
-
-  .foot-panel3 {
-    flex-direction: column;
-  }
-
-  .select-1 {
-    margin: 5px 0;
-  }
-
-  [class*="box2-"],
-  [class*="box3-"],
-  [class*="box5-"],
-  [class*="box7-"],
-  [class*="box8-"] {
-    width: 45%;
-    height: auto;
-    margin: 5px;
- }
 }
