@@ -175,6 +175,7 @@
     background-color: #fff;
     padding: 20px 0px 15px;
     margin-bottom: 20px;
+    overflow: hidden;
 }
 
 .shop-section{
@@ -209,7 +210,7 @@
     background-image: url(box2.1.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 15px;
     
@@ -218,7 +219,7 @@
     background-image: url(box2.2.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 15px;    
     margin-left: 10px;
@@ -227,7 +228,7 @@
     background-image: url(box2.3.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -236,7 +237,7 @@
     background-image: url(box2.4.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -246,7 +247,7 @@
     background-image: url(box4.1.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 15px;
     
@@ -255,7 +256,7 @@
     background-image: url(box4.2.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 15px;    
     margin-left: 10px;
@@ -264,7 +265,7 @@
     background-image: url(box4.3.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -273,7 +274,7 @@
     background-image: url(box4.4.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -291,7 +292,7 @@
     background-image: url(box5.1.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 15px;
     
@@ -300,7 +301,7 @@
     background-image: url(box5.2.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 15px;    
     margin-left: 10px;
@@ -309,7 +310,7 @@
     background-image: url(box5.3.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -318,7 +319,7 @@
     background-image: url(box5.4.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -337,7 +338,7 @@
     background-image: url(box8.1.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 15px;
     
@@ -346,7 +347,7 @@
     background-image: url(box8.2.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 15px;    
     margin-left: 10px;
@@ -355,7 +356,7 @@
     background-image: url(box8.3.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -364,7 +365,7 @@
     background-image: url(box8.4.jpg);
     background-size: cover;
     height: 130px;
-    width: 145px;
+    width: 135px;
     display: inline-block;
     margin-top: 30px;
     margin-bottom: 15px;
